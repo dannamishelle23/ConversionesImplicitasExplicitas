@@ -1,5 +1,3 @@
-package Conversiones;
-
 import java.util.Scanner;
 
 public class Conversiones {
