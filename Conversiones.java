@@ -47,6 +47,7 @@ public class Conversiones {
         System.out.println("El número entero " + numero_entero + " fue convertido a double: " + numeroDouble);
     }
 
+    //Metodo personalizado para hacer la conversion explicita (de un numero mas grande a uno mas pequeño)
     public static void conversionExplicita(Scanner scanner) {
         //Definir el atributo que se va a convertir
         double num_double;
