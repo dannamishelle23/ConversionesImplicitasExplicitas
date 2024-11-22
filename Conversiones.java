@@ -33,6 +33,7 @@ public class Conversiones {
         ingreso.close();
     }
 
+    //Metodo personalizado para hacer la conversion implicita (de un numero mas pequeño a uno mas grande)
     public static void conversionImplicita(Scanner scanner) {
         //Definir el atributo que se va a convertir
         int numero_entero;
